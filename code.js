@@ -4,7 +4,8 @@
 // @version      0.1
 // @description  Focus
 // @match        *://www.geo-fs.com/*
-// @grant        TOMAIIM(SandWolfShirak）
+// @grant        none
+// @author       TOMAIIM(SandWolfShirak）
 // ==/UserScript==
 
 
